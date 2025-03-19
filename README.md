@@ -1,14 +1,4 @@
-Services
-Documents
-Untitled Document.md
-Preview as 
-Export as 
-Save to 
-Import from 
-Document Name
-Untitled Document.md
-MarkdownPreviewToggle Mode
-  
+ 
 <h3 class="code-line" data-line-start=0 data-line-end=1 ><a id="_Hi_there_0"></a>👋 <strong>Hi there</strong></h3>
 <hr>
 <h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="_Tech_Stack_3"></a>🚀 <strong>Tech Stack</strong></h2>
